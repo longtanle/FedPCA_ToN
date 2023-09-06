@@ -1,0 +1,6 @@
+data/
+desktop.ini
+*.pyc
+# *.npy
+*.pdf
+baseline_results/
