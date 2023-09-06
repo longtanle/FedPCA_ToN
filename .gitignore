@@ -1,11 +1,11 @@
 data/
-desktop.ini
-*.pyc
-# *.npy
-*.pdf
 baseline_results/
 analysis_data/
 figures/
 results/
+desktop.ini
+*.pyc
+# *.npy
+*.pdf
 *.sh
 *.png
