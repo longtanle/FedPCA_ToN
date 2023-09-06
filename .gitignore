@@ -4,3 +4,8 @@ desktop.ini
 # *.npy
 *.pdf
 baseline_results/
+analysis_data/
+figures/
+results/
+*.sh
+*.png
