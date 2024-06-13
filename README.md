@@ -1,4 +1,4 @@
-# Federated PCA on Grassmann Manifold for IoT Anomaly Detection [IEEE Transactions on Networking]
+# Federated PCA on Grassmann Manifold for IoT Anomaly Detection
 This repository is for the Experiment Section of the paper: "Federated PCA on Grassmann Manifold for IoT Anomaly Detection"
 
 Authors: Tung-Anh Nguyen, Long Tan Le, Tuan Dung Nguyen, Wei Bao, Suranga Seneviratne, Choong Seon Hong, Nguyen H. Tran
